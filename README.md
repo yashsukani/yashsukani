@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yashsukani
-- 👀 I’m interested in Front-end web development 
+<!-- - 👀 I’m interested in Front-end web development 
 - 🌱 I’m currently learning basics of Front-end 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
